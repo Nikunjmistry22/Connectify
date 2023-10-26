@@ -17,8 +17,8 @@ Time-Based QR Codes: Connectify takes security and privacy seriously. To prevent
 QR Code Expiry Alerts: Connectify will notify you when your QR code is about to expire. You'll receive a popup alert, giving you the option to extend the time validity of your QR code with a simple click on the "Update" button. This proactive approach helps you maintain up-to-date and accessible social media connections.
 Simplify your social networking experience with Connectify. Say goodbye to the tedious task of searching for friends and connections on multiple platforms. Download Connectify today and start sharing your social media profiles effortlessly through QR codes. Connect, share, and make your social connections with Connectify.
 
+**Technical Steup**: Write this command on your file folder terminal "pip install -r requirements.txt" and than run app_main.py
 **How to Use Connectify:**
-
 1. Create your Connectify profile by adding your preferred social media profiles.
 2. Generate your personalized QR code.
 3. When you meet someone new, simply share your QR code, and they can scan it using the app.
