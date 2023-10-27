@@ -42,7 +42,7 @@ Simplify your social networking experience with Connectify. Say goodbye to the t
 <img src="test_connectify/assets/images/Scanner.png">
 
 <h1>User</h1><h3>Qr COde is generated . Current Qrcode Social Media username displayed.User can refresh the validity of the qr code.</h3>
-<img src="test_connectify/assets/images/User.png">
+<img src="test_connectify/assets/images/User_1.png">
 
 
 # Technical Setup: Write this command on your file folder terminal "pip install -r requirements.txt" and than run app_main.py.<br>
