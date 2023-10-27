@@ -31,5 +31,18 @@ Simplify your social networking experience with Connectify. Say goodbye to the t
 - Customizable: Tailor your QR code to include the social media platforms that matter most to you.
 - User-Friendly: Connectify offers an intuitive and user-friendly interface, ensuring a smooth experience for users of all levels.
 
+# ScreenShots with explaination
+<h1>Animation</h1><h3>Animated Text of "Welcome To Connectify" with it's logo.</h3>
+<img src="test_connectify/assets/images/Animation.png">
+
+<h1>Home</h1><h3>It contain the Qr code of the user and if not the text is displayed "Qr code not yet Generated"</h3>
+<img src="test_connectify/assets/images/Home.png">
+
+<h1>Scanner</h1><h3>It will the Scan the user B Qr Code and display the buttons according to number of social media user A has used.With a Click of Button the User A's Porfile of that social media is opened.For security pupose i have made the qr code timebased so if someone clicks a photo of the qr code ,the validity Check is always done to make the qr code upto the date.</h3>
+<img src="test_connectify/assets/images/Scanner.png">
+
+<h1>User</h1><h3>Qr COde is generated . Current Qrcode Social Media username displayed.User can refresh the validity of the qr code.</h3>
+<img src="test_connectify/assets/images/User.png">
+
 
 # Technical Setup: Write this command on your file folder terminal "pip install -r requirements.txt" and than run app_main.py.<br>
